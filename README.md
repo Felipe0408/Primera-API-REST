@@ -6,7 +6,7 @@ Desarrollado en el IDE IntelliJ IDEA y la base de datos fue gestionada con MySQL
 
 Desarrollador: Felipe Castillo
 
-## Instrucciones
+## Cómo utilizar
 
 - Clone el repositorio en el directorio de su preferencia
 - Código desarrollado en Intellij IDEA se recomienda este entorno más no es obligatorio.
